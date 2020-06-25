@@ -50,7 +50,7 @@
   "dependencies": {
     "async": "~2.6.1",
     "body-parser": "~1.18.3",
-    "bunyan": "~1.8.12",
+    "bunyan": "~1.8.13",
     "commonlog-bunyan": "~0.4.3",
     "cors": "~2.8.4",
     "csv": "~1.1.0",
