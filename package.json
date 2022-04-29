@@ -67,7 +67,7 @@
     "pg-query-stream": "~1.1.1",
     "pmx": "~1.6.7",
     "postcode": "~0.2.5",
-    "prompt": "~1.0.0",
+    "prompt": "~1.1.0",
     "random-string": "~0.2.0",
     "serve-favicon": "~2.5.0",
     "string": "~3.3.3"
