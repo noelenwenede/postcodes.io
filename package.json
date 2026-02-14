@@ -49,7 +49,7 @@
   },
   "dependencies": {
     "async": "~2.6.1",
-    "body-parser": "~1.18.3",
+    "body-parser": "~1.20.4",
     "bunyan": "~1.8.12",
     "commonlog-bunyan": "~0.4.3",
     "cors": "~2.8.4",
@@ -57,7 +57,7 @@
     "csv-parse": "~3.0.0",
     "ejs": "https://registry.npmjs.org/ejs/-/ejs-2.5.7.tgz",
     "escape-string-regexp": "~1.0.5",
-    "express": "~4.16.3",
+    "express": "~4.22.0",
     "minimist": "~1.2.0",
     "morgan": "~1.9.0",
     "node.extend": "~2.0.0",
